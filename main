@@ -1,6 +1,0 @@
-public MainWindow()
-        {
-            InitializeComponent();
-            lblAusgabe.Content = "a";
-
-        }
