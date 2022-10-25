@@ -1,0 +1,49 @@
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.AssemblyReference.cache
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\Ege Ata\Downloads\MaxTemp(1)\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\bin\Debug\temps.csv
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csprojAssemblyReference.cache
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+C:\Users\benjamin.schmidt\Desktop\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\bin\Debug\temps.csv
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe.config
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\bin\Debug\MaxTemp.exe
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\bin\Debug\MaxTemp.pdb
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csprojAssemblyReference.cache
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MainWindow.g.cs
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\App.g.cs
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.cache
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp_MarkupCompile.lref
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MainWindow.baml
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.g.resources
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.Properties.Resources.resources
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.GenerateResource.cache
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.csproj.CoreCompileInputs.cache
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.exe
+H:\Jahr1\BfK-S\MaxTemp\MaxTemp\obj\Debug\MaxTemp.pdb
