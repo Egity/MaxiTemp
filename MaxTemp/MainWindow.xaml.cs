@@ -1,5 +1,6 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
@@ -22,29 +23,37 @@ namespace MaxTemp
         public MainWindow()
         {
             InitializeComponent();
-            //lblAusgabe.Content = "a";
         }
-
         private void BtnAuswerten_Click(object sender, RoutedEventArgs e)
         {
+            btnAuswerten.Content = "Erneut Auswerten";
+            textBox.Text = "";
             decimal highest = -273;
-            var reader = new StreamReader(@"H:\Jahr1\BfK-S\MaxTemp\MaxTemp\temps.csv");
+            var reader = new StreamReader(@"C:\Users\Ege Ata\Downloads\MaxiTemp-main\MaxiTemp-main\MaxTemp\MaxTemp\temps.csv");
+            textBox.Text = "Diese Server sind zu heiß: \n";
 
+            int counter = 0;
             while (!reader.EndOfStream)
             {
                 var curLine = reader.ReadLine().Split(',');
 
-                
-                if (Convert.ToDecimal(curLine[curLine.Length-1]) / 10 > highest)
+                if (Convert.ToDecimal(curLine[curLine.Length - 1]) / 10 > highest)
                 {
                     highest = Convert.ToDecimal(curLine[curLine.Length - 1]) / 10;
-                }
 
+                    if (highest > 35)
+                    {
+                        textBox.Text += " [" + curLine[0] + " " + curLine[curLine.Length - 1] + "°C]";
+                        counter++;
+                        if (counter > 3)
+                        {
+                            counter = 0;
+                            textBox.Text += "\n";
+                        }
+                    }
+                }
             }
             reader.Close();
-
-            //MessageBox.Show("Highest value in data: " + highest);
-            lblAusgabe.Content = highest;
         }
     }
 }
